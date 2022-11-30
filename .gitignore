@@ -1,0 +1,11 @@
+# Binary files
+bin/
+
+# Object or intermediate files
+obj/
+
+# Project settings
+*.csproj
+
+# VSCode settings
+.vscode/
